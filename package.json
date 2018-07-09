@@ -1,0 +1,15 @@
+{
+  "name": "headhunterjs",
+  "version": "1.0.0",
+  "description": "headhunterjstest",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumberjs"
+  },
+  "author": "Sayan",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^4.2.1",
+    "selenium-cucumber-js": "^1.5.13"
+  }
+}
