@@ -1,15 +1,20 @@
 {
-  "name": "headhunterjs",
+  "name": "package",
   "version": "1.0.0",
-  "description": "headhunterjstest",
+  "description": "training",
   "main": "index.js",
-  "scripts": {
-    "test": "cucumberjs"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayanS/headhunterJS.git"
   },
-  "author": "Sayan",
+  "author": "SayanS",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayanS/headhunterJS/issues"
+  },
+  "homepage": "https://github.com/SayanS/headhunterJS#readme",
   "devDependencies": {
     "cucumber": "^4.2.1",
-    "selenium-cucumber-js": "^1.5.13"
+    "selenium-webdriver": "^4.0.0-alpha.1"
   }
 }
